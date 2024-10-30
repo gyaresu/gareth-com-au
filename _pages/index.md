@@ -6,7 +6,7 @@ intro:
   - excerpt: 'Empowering your business with strategic insights and hands-on guidance.'
 ---
 
-[Book a Consultation](https://yourcompany.simplybook.me){: .btn .btn--primary }
+[Book a Consultation](https://garethcomau.simplybook.me){: .btn .btn--primary }
 [Contact Us](#contact){: .btn }
 
 ### Our Services

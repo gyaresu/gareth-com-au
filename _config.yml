@@ -16,7 +16,7 @@
 title: "Consultancy for strategic innovation by Gareth"
 email: me@gareth.com.au
 description: >- # this means to ignore newlines until "baseurl:"
-  Practical, effective solutions for technology and operations
+  With a career spanning 25 years in technology and operations, I’ve learned that the best solutions are the simplest. I help businesses cut through complexity to create systems that work—efficiently, effectively, and aligned with real goals.
 # twitter_username: username
 github_username: gyaresu
 minimal_mistakes_skin: default
@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Gareth"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Gareth helps businesses harness practical, effective solutions to navigate their technology and operational challenges. With extensive experience in technology strategy and management, Gareth brings a straightforward, problem-solving approach to help organizations streamline operations, align technology with their goals, and adapt to changing needs. Whether you’re looking to improve current systems, introduce innovative practices, or plan for future growth, Gareth offers clear, hands-on guidance to support your organization’s progress and resilience."
+  bio    : "With a career spanning 25 years in technology and operations, I’ve learned that the best solutions are the simplest. I help businesses cut through complexity to create systems that work—efficiently, effectively, and aligned with real goals."
   location: "Kingston Beach, Tasmania"
   linkedin: garethcodes
 
