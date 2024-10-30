@@ -58,9 +58,11 @@ plugins:
 author:
   name   : "Gareth"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "With a career spanning 25 years in technology and operations, I’ve learned that the best solutions are the simplest. I help businesses cut through complexity to create systems that work—efficiently, effectively, and aligned with real goals."
+  bio    : "After 25 years of advising and building technology solutions, I’ve learned that the best systems are the ones that make it easy for people to work together. I help businesses cut through the noise to create systems that truly support collaboration—systems that people actually want to use and that help teams achieve their goals in a straightforward, effective way."
   location: "Kingston Beach, Tasmania"
   linkedin: garethcodes
+  expertise: "Strategic Innovation and Technology"
+  interests: "Collaborative systems, innovation, problem-solving"
 
 
 footer:
