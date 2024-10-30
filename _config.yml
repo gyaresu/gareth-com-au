@@ -60,21 +60,15 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Gareth helps businesses harness practical, effective solutions to navigate their technology and operational challenges. With extensive experience in technology strategy and management, Gareth brings a straightforward, problem-solving approach to help organizations streamline operations, align technology with their goals, and adapt to changing needs. Whether you’re looking to improve current systems, introduce innovative practices, or plan for future growth, Gareth offers clear, hands-on guidance to support your organization’s progress and resilience."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://gareth.com.au"
-    # - label: "Twitter"
-    #   icon: "fab fa-fw fa-twitter-square"
-    #   url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+    - title: "LinkedIn"
+      url: https://www.linkedin.com/in/garethcodes/
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
     #   url: "https://instagram.com/"
 
 
 footer:
+  links:
   - title: "LinkedIn"
     url: https://www.linkedin.com/in/garethcodes/
   - title: "Privacy Policy"
