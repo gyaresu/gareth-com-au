@@ -14,6 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: "Consultancy for strategic innovation by Gareth"
+# alternative naming: Gareth’s Consultancy for Strategic Innovation
+# CSIxG / GCSI
+
 email: me@gareth.com.au
 description: >- # this means to ignore newlines until "baseurl:"
   With a career spanning 25 years in technology and operations, I’ve learned that the best solutions are the simplest. I help businesses cut through complexity to create systems that work—efficiently, effectively, and aligned with real goals.
@@ -27,7 +30,7 @@ markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+# paginate: 5 # amount of posts to show ## changed to remove blog from index page (g)
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
@@ -58,12 +61,9 @@ plugins:
 author:
   name   : "Gareth"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "After 25 years of advising and building technology solutions, I’ve learned that the best systems are the ones that make it easy for people to work together. I help businesses cut through the noise to create systems that truly support collaboration—systems that people actually want to use and that help teams achieve their goals in a straightforward, effective way."
+  bio    : "After 25 years of advising on, and building, technology solutions, I’ve learned that the best systems are the ones that make it easy for people to work together. I help businesses cut through the noise to create systems that truly support collaboration — systems that people actually want to use and that help teams achieve their goals in a straightforward, effective way."
   location: "Kingston Beach, Tasmania"
   linkedin: garethcodes
-  expertise: "Strategic Innovation and Technology"
-  interests: "Collaborative systems, innovation, problem-solving"
-
 
 footer:
   links:
