@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "Gareth Solves Problems"
-email: me@gareth.codes
+title: "Consultancy for strategic innovation by Gareth"
+email: me@gareth.com.au
 description: >- # this means to ignore newlines until "baseurl:"
-  Strategic Technology and IT Solutions.
+  Consultancy for Strategic Innovation by Gareth" is dedicated to helping businesses unlock their potential through forward-thinking solutions and tailored strategies. With decades of experience in technology and operations, Gareth offers a unique approach to strategic innovation, transforming complex challenges into actionable, sustainable outcomes. Specializing in technology alignment, operational efficiency, and digital transformation, Gareth’s consultancy empowers organizations to stay ahead in a rapidly evolving landscape. Whether you’re looking to optimize current systems, drive innovation, or develop a comprehensive technology roadmap, Gareth’s strategic insights and hands-on guidance ensure that your organization thrives today and is ready for the challenges of tomorrow.
 # twitter_username: username
 github_username: gyaresu
 minimal_mistakes_skin: default
@@ -56,22 +56,22 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Gareth"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://gareth.com.au"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
+    #   url: "https://instagram.com/"
 
 
 footer:
