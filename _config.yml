@@ -16,7 +16,7 @@
 title: "Consultancy for strategic innovation by Gareth"
 email: me@gareth.com.au
 description: >- # this means to ignore newlines until "baseurl:"
-  Gareth helps businesses harness practical, effective solutions to navigate their technology and operational challenges. With extensive experience in technology strategy and management, Gareth brings a straightforward, problem-solving approach to help organizations streamline operations, align technology with their goals, and adapt to changing needs. Whether you’re looking to improve current systems, introduce innovative practices, or plan for future growth, Gareth offers clear, hands-on guidance to support your organization’s progress and resilience.
+  Practical, effective solutions for technology and operations
 # twitter_username: username
 github_username: gyaresu
 minimal_mistakes_skin: default
@@ -65,15 +65,15 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
+    #   url: "https://instagram.com/"
 
 defaults:
   # _posts
