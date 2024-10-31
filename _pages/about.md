@@ -22,7 +22,7 @@ Most recently, I served as **Operations Manager and CISO** at TCSI Consulting Lt
 
 ### Today
 
-Since 2024, I have been working as an **Independent Consultant** for businesses, nonprofits, and government organizations across Australia, North America, Europe, and the Asia-Pacific region. My consultancy practice focuses on:
+Since returning to Australia in 2024, I have been working as an **Independent Consultant** for businesses, nonprofits, and government organizations across Australia, North America, Europe, and the Asia-Pacific region. My consultancy practice focuses on:
 - **Digital Transformation**: Guiding organizations to modernize operations, implement cloud solutions, and improve scalability.
 - **Cybersecurity & Compliance**: Providing risk assessments, security frameworks, and regulatory guidance.
 - **Cloud and Data Solutions**: Advising on cloud migrations, data analytics, and scalable storage.
