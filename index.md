@@ -1,10 +1,16 @@
 ---
+layout: single
+title: "Welcome to Consultancy for Strategic Innovation by Gareth"
+author_profile: true
+---
+
+<!-- ---
 layout: splash
 title: "Welcome to Consultancy for Strategic Innovation by Gareth"
 excerpt: "Practical, effective solutions for technology and operations"
 intro:
   - excerpt: 'Empowering your business with strategic insights and hands-on guidance.'
----
+--- -->
 
 [Book a Consultation](https://garethcomau.simplybook.me){: .btn .btn--primary }
 [Contact Us](#contact){: .btn }
