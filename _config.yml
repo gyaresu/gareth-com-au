@@ -54,7 +54,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-#  - jekyll-feed ## commented out to remove Feed link in footer
+  #- jekyll-feed
   - jemoji
   - jekyll-include-cache
 
@@ -76,8 +76,6 @@ footer:
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
     #   url: "https://instagram.com/"
-  atom_feed:
-    hide: true
 
 defaults:
   # _posts
