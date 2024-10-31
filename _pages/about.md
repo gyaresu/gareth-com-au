@@ -3,6 +3,8 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+With over 25 years in technology and operations, I specialize in helping businesses find practical, effective solutions to complex challenges. My focus is on aligning technology with real-world business goals, streamlining systems, and supporting growth with clear, strategic insights.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I’ve worked across industries, from small businesses to global organizations, bringing hands-on guidance that helps teams work more effectively together. I believe in cutting through complexity to create straightforward solutions that make technology a valuable tool for progress, not an obstacle.
+
+At Consultancy for Strategic Innovation, I’m here to help you tackle IT and operational challenges with solutions that are designed to last. Whether you’re looking to optimize existing systems, introduce innovative practices, or prepare for future growth, I work closely with you to ensure technology is a partner in your success.
