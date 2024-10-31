@@ -78,7 +78,7 @@ footer:
     #   url: "https://instagram.com/"
     - label: "Mastodon"
       icon: "fab fa-fw fa-mastodon"
-      url: https://mastodon.social/@gareth_
+      url: https://mastodon.social/@gareth__
       rel: "me"
 
 defaults:
