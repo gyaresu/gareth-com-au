@@ -84,4 +84,4 @@ Provides high-level assessments, reporting, and insights tailored for management
 
 ---
 
-Each of these services is designed to meet the specific needs of your business, providing the tools and insights necessary for growth and operational efficiency. [Contact us](#contact) to learn more about how we can help, or [book a consultation](https://garethcomau.simplybook.me) to get started.
+Each of these services is designed to meet the specific needs of your business, providing the tools and insights necessary for growth and operational efficiency. [Contact us]({% link _pages/contact.md %}) to learn more about how we can help, or [book a consultation](https://garethcomau.simplybook.me) to get started.
