@@ -1,7 +1,10 @@
 ---
 layout: single
-title: "Welcome to Consultancy for Strategic Innovation by Gareth"
+title: "Don't Panic"
 author_profile: true
+excerpt: "Practical, effective solutions for technology and operations"
+intro:
+  - excerpt: 'Empowering your business with strategic insights and hands-on guidance.'
 ---
 
 <!-- ---
@@ -12,8 +15,7 @@ intro:
   - excerpt: 'Empowering your business with strategic insights and hands-on guidance.'
 --- -->
 
-[Book a Consultation](https://garethcomau.simplybook.me){: .btn .btn--primary }
-[Contact Us](#contact){: .btn }
+
 
 ### Our Services
 - **Technology Alignment**: Ensuring technology aligns with your business goals.
@@ -21,3 +23,7 @@ intro:
 
 ### Client Testimonials
 > "Gareth’s strategic insights transformed our approach to technology." — Client Name
+
+[Book a Consultation](https://garethcomau.simplybook.me){: .btn .btn--primary }
+[Contact Us](% link _pages/contact.md  %){: .btn }
+
