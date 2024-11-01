@@ -12,7 +12,7 @@ header:
       url: "/services/"
 ---
 
-I specialize in providing clear, practical strategies to help organisations make the most of their technology and streamline their operations. This consultancy focuses on aligning IT with real business goals, creating solutions that are easy to implement and drive long-term success. Whether you're looking to optimize current systems or plan for future growth, I'm here to ensure technology is an asset, not a burden.
+With 25 years in IT and 15 years working internationally, I specialize in delivering clear, practical strategies that help organizations around the world make the most of their technology and streamline operations. I bring real, actionable value remotely, aligning IT with your business goals wherever you’re located. When deeper on-site collaboration is needed, I’m also ready to travel to ensure solutions are effective and tailored to your needs. Whether you’re optimizing current systems or planning for future growth, I’m here to make technology a valuable asset, not an obstacle.
 
 [Explore our Services]({% link _pages/services.md %}){: .btn .btn--primary}
 or
