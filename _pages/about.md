@@ -11,7 +11,7 @@ Before the internet was everywhere, I worked with things you could drop on your 
 
 I started my career as the **Founder of Computer Rescue** in Australia, where I provided IT support and advisory services to small and medium-sized businesses. This role built the foundation for my approach to practical, adaptable tech solutions tailored to unique business needs.
 
-I later became the **Manager of Dive Operations** at Reef Safari Diving on the Great Barrier Reef, where I honed my leadership skills managing logistics and training programs across multiple locations. This experience in operations management informed my ability to handle complex projects and coordinate cross-functional teams.
+I later became the **Manager of Dive Operations** at Reef Safari Diving on the Great Barrier Reef, where I honed my leadership skills managing logistics and training programs across multiple locations in Australia and Fiji. This experience in operations management informed my ability to handle complex projects and coordinate cross-functional teams.
 
 In my role as **Team Lead for Information Technology** at Greenpeace International in Amsterdam, I led an IT support team and oversaw the transition of legacy systems to cloud platforms. This work spanned international offices, ships, and campaigns, developing solutions that empowered teams globally and securely.
 

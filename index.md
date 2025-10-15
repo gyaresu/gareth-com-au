@@ -4,7 +4,7 @@ title: "Gareth - Software Engineer"
 author_profile: false
 ---
 
-# G’day, I’m Gareth
+# G'day, I'm Gareth.
 
 ![paste](/assets/images/paste.jpg){: .align-center }
 
