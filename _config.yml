@@ -61,7 +61,9 @@ plugins:
 author:
   name   : "Gareth"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Some of those that work forces want the paste that's for horses. Australian software engineer at Passbolt — representing the Oceanic region."
+  bio    : |-
+    _"Some of those that work forces want the paste that's for horses"_
+    Australian software engineer at Passbolt — representing the Oceanic region.
   location: "Kingston Beach, Tasmania"
   linkedin: garethcodes
 

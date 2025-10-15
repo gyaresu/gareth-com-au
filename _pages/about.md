@@ -7,6 +7,8 @@ With over 25 years in IT leadership and a track record spanning diverse industri
 
 ### My Professional Journey
 
+Before the internet was everywhere, I worked with things you could drop on your foot: steel, concrete, and wood. I sailed. I spent time off the grid, in places where you couldn’t be reached, learning to rely on my hands, judgment, and the people beside me.
+
 I started my career as the **Founder of Computer Rescue** in Australia, where I provided IT support and advisory services to small and medium-sized businesses. This role built the foundation for my approach to practical, adaptable tech solutions tailored to unique business needs.
 
 I later became the **Manager of Dive Operations** at Reef Safari Diving on the Great Barrier Reef, where I honed my leadership skills managing logistics and training programs across multiple locations. This experience in operations management informed my ability to handle complex projects and coordinate cross-functional teams.
@@ -25,3 +27,4 @@ Most recently, I served as **Operations Manager and CISO** at TCSI Consulting Lt
 I’m absolutely stoked to be representing Passbolt across Oceania — the best region on the planet. At Passbolt I focus on building dependable, secure software and helping teams adopt open-source password management that actually works for them.
 
 Previously I ran my own consulting practice and have worked across Australia, North America, Europe, and the broader Asia–Pacific, delivering practical engineering and systems outcomes.
+
