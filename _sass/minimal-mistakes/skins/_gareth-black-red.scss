@@ -214,3 +214,25 @@ select:-webkit-autofill:focus {
   background: $background-color !important;
   color: $text-color !important;
 }
+
+// Form container and fieldsets – eliminate white bounding
+.page__content form,
+.page__content form .form-group,
+.page__content fieldset {
+  background: transparent !important;
+  border: 1px solid $code-border-color !important;
+  box-shadow: none !important;
+}
+
+// Remove unexpected white outlines/box-shadows from inputs on focus
+.page__content input:focus,
+.page__content select:focus,
+.page__content textarea:focus {
+  box-shadow: 0 0 0 2px rgba(225, 6, 0, 0.25) !important;
+}
+
+// Buttons – no white borders
+.page__content button,
+.page__content input[type="submit"] {
+  border-color: transparent !important;
+}

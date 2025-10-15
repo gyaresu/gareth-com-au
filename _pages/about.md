@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 ---
 
-With over 25 years in IT leadership and a track record spanning diverse industries and countries, I bring deep expertise in technology consulting, digital transformation, and strategic IT management. My experience ranges from hands-on technical roles to executive advisory, and I have worked with organizations of all sizes—from nonprofits to large corporations and government agencies.
+With over 25 years in IT leadership and a track record spanning diverse industries and countries, I bring deep expertise in technology consulting, digital transformation, and strategic IT management. My experience ranges from hands-on technical roles to executive advisory, and I have worked with organizations of all sizes - from nonprofits to large corporations and government agencies.
 
 ### My Professional Journey
 
@@ -24,7 +24,7 @@ Most recently, I served as **Operations Manager and CISO** at TCSI Consulting Lt
 
 ### Today
 
-I’m absolutely stoked to be representing Passbolt across Oceania — the best region on the planet. At Passbolt I focus on building dependable, secure software and helping teams adopt open-source password management that actually works for them.
+I’m absolutely stoked to be representing Passbolt across Oceania - the best region on the planet. At Passbolt I focus on building dependable, secure software and helping teams adopt open-source password management that actually works for them.
 
 Previously I ran my own consulting practice and have worked across Australia, North America, Europe, and the broader Asia–Pacific, delivering practical engineering and systems outcomes.
 
