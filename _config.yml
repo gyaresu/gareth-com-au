@@ -22,7 +22,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   With a career spanning 25 years in technology and operations, I’ve learned that the best solutions are the simplest. I help businesses cut through complexity to create systems that work—efficiently, effectively, and aligned with real goals.
 # twitter_username: username
 github_username: gyaresu
-minimal_mistakes_skin: default
+minimal_mistakes_skin: gareth-black-red
 search: true
 
 # Build settings

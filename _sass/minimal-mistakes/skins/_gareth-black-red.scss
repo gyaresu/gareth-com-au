@@ -1,0 +1,86 @@
+/*
+   Gareth Black/Red Skin for Minimal Mistakes
+*/
+
+// Base palette
+$background-color: #000000 !default; // black
+$text-color: #e6e6e6 !default;       // light gray text for contrast
+$muted-text-color: #b3b3b3 !default;  // muted gray
+
+// Brand colors
+$primary-color: #e10600 !default;     // vivid red
+$primary-color-hover: #ff1a1a !default;
+$link-color: $primary-color !default;
+$link-color-hover: $primary-color-hover !default;
+
+// Accents and UI
+$border-color: #1a1a1a !default;
+$code-background-color: #0d0d0d !default;
+$code-border-color: #262626 !default;
+$table-background-color: #0d0d0d !default;
+$button-background: $primary-color !default;
+$button-hover-background: $primary-color-hover !default;
+
+// Header/footer
+$header-background: #000000 !default;
+$footer-background: #000000 !default;
+
+// Alert colors
+$success-color: #2ecc71 !default;
+$warning-color: #f1c40f !default;
+$danger-color: #e74c3c !default;
+
+// Import base skin variables to ensure completeness
+@import "minimal-mistakes/skins/default";
+
+// Custom tweaks
+a {
+  text-decoration: none;
+}
+
+.page__footer,
+.page__header,
+.site-nav {
+  background: $header-background;
+}
+
+.btn,
+button,
+input[type="submit"] {
+  background-color: $button-background;
+  &:hover { background-color: $button-hover-background; }
+}
+
+pre, code {
+  background: $code-background-color;
+  border-color: $code-border-color;
+}
+
+table {
+  background: $table-background-color;
+}
+
+body {
+  background: $background-color;
+  color: $text-color;
+}
+
+.page__content h1,
+.page__content h2,
+.page__content h3,
+.page__content h4,
+.page__content h5,
+.page__content h6 {
+  color: $primary-color;
+}
+
+.masthead__menu-item--active > a {
+  color: $primary-color !important;
+}
+
+.greedy-nav .visible-links a:hover,
+.greedy-nav button:hover {
+  color: $primary-color-hover;
+}
+
+
