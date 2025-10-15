@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Services"
-permalink: /services/
+title: "History"
+permalink: /history/
 author_profile: true
 ---
 
@@ -48,6 +48,4 @@ author_profile: true
 
 **Service Description**: Whether it’s setting up new infrastructure or managing complex IT migrations, I bring practical project management to keep things moving forward smoothly.
 
-[Explore our Services]({% link _pages/services.md %}){: .btn .btn--primary}
-or
-[Book a free Introductory Strategy Call](https://garethcomau.simplybook.me){: .btn .btn--primary }
+

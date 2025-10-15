@@ -13,8 +13,15 @@ permalink: /contact/
   <label for="message">Message</label>
   <textarea id="message" name="message"></textarea>
   
-  <button type="submit">Submit Inquiry</button>
+  <!-- Honeypot field to reduce spam -->
+  <label for="website" style="position:absolute;left:-9999px;top:auto;width:1px;height:1px;overflow:hidden;">Website</label>
+  <input type="text" id="website" name="_gotcha" tabindex="-1" autocomplete="off" style="position:absolute;left:-9999px;top:auto;width:1px;height:1px;overflow:hidden;">
+  
+  <button type="submit">Send</button>
 </form>
 
-<p>Or schedule a consultation directly:</p>
-<a href="https://garethcomau.simplybook.me" class="btn btn--primary">Book an Appointment</a>
+### Elsewhere
+
+- GitHub: [gyaresu](https://github.com/gyaresu)
+- Mastodon: [@gareth__@mastodon.social](https://mastodon.social/@gareth__)
+- LinkedIn: [garethcodes](https://www.linkedin.com/in/garethcodes/)

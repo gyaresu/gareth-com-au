@@ -22,16 +22,6 @@ Most recently, I served as **Operations Manager and CISO** at TCSI Consulting Lt
 
 ### Today
 
-Since returning to Australia in 2024, I have been working as an **Independent Consultant** for businesses, nonprofits, and government organizations across Australia, North America, Europe, and the Asia-Pacific region. My consultancy practice focuses on:
-- **Digital Transformation**: Guiding organizations to modernize operations, implement cloud solutions, and improve scalability.
-- **Cybersecurity & Compliance**: Providing risk assessments, security frameworks, and regulatory guidance.
-- **Cloud and Data Solutions**: Advising on cloud migrations, data analytics, and scalable storage.
-- **Executive Advisory**: Delivering assessments and reports to guide technology investments and risk management.
-- **Project Management & IT Support**: Coordinating IT projects, migrations, and custom support frameworks for diverse client needs.
+I’m absolutely stoked to be representing Passbolt across Oceania — the best region on the planet. At Passbolt I focus on building dependable, secure software and helping teams adopt open-source password management that actually works for them.
 
-This experience enables me to work effectively across sectors and regions, delivering tailored, practical solutions to meet each client’s specific goals. Let’s connect and explore how I can help drive your organization forward through strategic, impactful technology solutions.
-
-
-[Explore our Services]({% link _pages/services.md %}){: .btn .btn--primary}
-or
-[Book a free Introductory Strategy Call](https://garethcomau.simplybook.me){: .btn .btn--primary }
+Previously I ran my own consulting practice and have worked across Australia, North America, Europe, and the broader Asia–Pacific, delivering practical engineering and systems outcomes.
