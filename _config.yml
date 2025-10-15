@@ -13,13 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "Consultancy for strategic innovation by Gareth"
+title: "Gareth"
 # alternative naming: Gareth’s Consultancy for Strategic Innovation
 # CSIxG / GCSI
 
 email: me@gareth.com.au
 description: >- # this means to ignore newlines until "baseurl:"
-  With a career spanning 25 years in technology and operations, I’ve learned that the best solutions are the simplest. I help businesses cut through complexity to create systems that work—efficiently, effectively, and aligned with real goals.
+  "Some of those that work forces want the paste that's for horses"
 # twitter_username: username
 github_username: gyaresu
 minimal_mistakes_skin: gareth-black-red

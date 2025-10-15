@@ -8,6 +8,8 @@ author_profile: false
 
 I’m an Australian software engineer at [Passbolt](https://passbolt.com), the open-source password manager for teams. I build reliable, secure software and keep things simple.
 
+> "Some of those that work forces want the paste that's for horses"
+
 ## Work
 
 - Passbolt — Software Engineer (current)
