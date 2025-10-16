@@ -236,3 +236,51 @@ select:-webkit-autofill:focus {
 .page__content input[type="submit"] {
   border-color: transparent !important;
 }
+
+// Contact form specific styling - target all form inputs on contact page
+.page__content form input[type="email"],
+.page__content form input[type="text"],
+.page__content form textarea {
+  background-color: #1a1a1a !important;
+  color: $text-color !important;
+  border: 2px solid $primary-color !important;
+  border-radius: 4px;
+  padding: 12px;
+  font-size: 16px;
+  width: 100%;
+  max-width: 400px;
+  display: block;
+  margin-bottom: 16px;
+}
+
+.page__content form input[type="email"]:focus,
+.page__content form input[type="text"]:focus,
+.page__content form textarea:focus {
+  border-color: $primary-color-hover !important;
+  box-shadow: 0 0 0 3px rgba(225, 6, 0, 0.3) !important;
+  background-color: #222222 !important;
+  outline: none;
+}
+
+.page__content form label {
+  color: $text-color !important;
+  font-weight: bold;
+  margin-bottom: 8px;
+  display: block;
+}
+
+.page__content form button {
+  background-color: $primary-color !important;
+  color: #ffffff !important;
+  border: none !important;
+  border-radius: 4px;
+  padding: 12px 24px;
+  font-size: 16px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.page__content form button:hover {
+  background-color: $primary-color-hover !important;
+}
